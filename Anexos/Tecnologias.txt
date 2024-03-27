@@ -1,0 +1,14 @@
+back-end: 
+
+java, SpringBoot
+aws, PostgreSql
+
+
+front-end
+
+react, reactJS, 
+
+
+UX/UI
+
+figma
